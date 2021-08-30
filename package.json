@@ -1,6 +1,6 @@
 {
   "name": "com.mainx.mvvmbase", 
-  "version": "1.0.2",
+  "version": "1.0.0",
   "displayName": "MVVM Base",
   "description": "MVVM Base",
   "unity": "2019.3",
